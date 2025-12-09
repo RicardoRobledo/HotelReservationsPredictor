@@ -6,7 +6,7 @@ This project focuses on predicting hotel reservation cancellations using machine
 
 ## 📊 Dataset Information
 
-- **Source**: Hotel Reservations Classification Dataset (Kaggle)
+- **Source**: [Hotel Reservations Classification Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 - **Total Records**: 36,275
 - **Class Distribution**:
   - Not_Canceled: 24,390 (67.2%)
